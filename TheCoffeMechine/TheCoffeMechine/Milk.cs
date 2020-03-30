@@ -1,0 +1,33 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace TheCoffeMechine
+{
+    class Milk
+    {
+        private int volume = 100000;
+        private int volumeOneCup = 100;
+
+        public Milk(int volume)
+        {
+            this.volume = volume;
+        }
+
+        public Boolean isAvailable()
+        {
+            return volume >= volumeOneCup;
+        }
+
+        public int makeOneCup()
+        {
+            this.volume = this.volume - this.volumeOneCup;
+            return volumeOneCup;
+        }
+
+        public int getVolume()
+        {
+            return this.volume;
+        }
+    }
+}

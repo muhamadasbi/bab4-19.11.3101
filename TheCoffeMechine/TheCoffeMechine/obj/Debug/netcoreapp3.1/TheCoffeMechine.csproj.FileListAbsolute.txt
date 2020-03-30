@@ -1,0 +1,11 @@
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.exe
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.deps.json
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.json
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.runtimeconfig.dev.json
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.dll
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\bin\Debug\netcoreapp3.1\TheCoffeMechine.pdb
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.csprojAssemblyReference.cache
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfoInputs.cache
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.AssemblyInfo.cs
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.dll
+E:\kuliah\materi\pemerograman\TheCoffeMechine\TheCoffeMechine\obj\Debug\netcoreapp3.1\TheCoffeMechine.pdb
